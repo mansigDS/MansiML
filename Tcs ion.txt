@@ -1,0 +1,45 @@
+Data Analysis
+
+    Data wrangling, 
+	data management, 
+	exploratory data analysis to generate hypotheses and intuition, 
+	ETL (Extraction, Transformation & Loading) procedure, 
+	Effective Data Preprocessing / Storage Methods, 
+	Data Mining Massive Data sets, 
+	Mining the Social Web, 
+	Web scraping & crawling 
+
+Statistics
+
+    Types of Variables: Measurement scales, Qualitative, Quantitative, Independent, Dependent
+    Measures of Center: Mean, Median, Mode
+    Measures of Spread: Range, Variance, Standard deviation
+    Measures of Shape: Skewness, Kurtosis
+    Tests of Association: Correlation, Regression
+    Tests of Inference: Chi-Square, T-test, Analysis-of-Variance
+    Types of Graph: Bar Graph, Histogram, Line Graph 
+
+Machine Learning
+
+    Decision Tree, 
+	Random forest, 
+	Gradient Boosting Machine learning algorithm, 
+	Support Vector Machines, 
+	Supervised techniques, 
+	Unsupervised Techniques - Clustering etc., 
+	Text Analytics, 
+	other standard machine learning techniques (Naive Bayes, ANN, etc.) 
+
+Optimisation Techniques
+
+    Optimisation techniques (Linear programming - Basic formulation, 
+	solution methodology e.g. graphical theory), 
+	Linear Algebra (Matrix, Eigen values, vector and matrix operation etc.) 
+
+Data Science (Big Data)
+
+    Distributed Computing Paradigm - General Concepts, 
+	MapReduce/Hadoop & Pig Script, 
+	SQL Databases/NoSQL Databases, 
+	Cloud Basics, 
+	Amazon EC2 Basics 
